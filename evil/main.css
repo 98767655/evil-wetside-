@@ -1,0 +1,55 @@
+h1{
+	font-family: 'Indie Flower', cursive;
+	background-color: blue;
+	color: white;
+	
+}
+.caja{
+	text-align:center;
+}
+nav{
+		margin-bottom: 50px;
+		white-space: nowrap;
+		text-align: center;
+
+	}
+
+	
+	body{
+		background-image: url(https://usercontent2.hubstatic.com/13669251_f520.jpg);
+		background-repeat: no-repeat;
+		background-size: cover ;
+	}
+.pitufo{
+	background-color: white;
+	margin: 0 auto;
+	width: 59%;
+	height: 60%;
+	padding: 10%;
+}
+.baso{
+	width: 25%;
+	height: 10%;
+	float: left;
+
+
+}
+.jas{
+	background-color: white;
+	margin: 0 auto;
+	width: 50%;
+	padding: 10%;
+	
+}
+.jason{
+	background-color: white;
+	margin: 0 auto;
+	width: 50%;
+	padding: 10%;
+}
+p{
+text-align: center;	
+
+}
+
+
